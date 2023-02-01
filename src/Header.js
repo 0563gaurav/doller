@@ -62,7 +62,7 @@ function Header() {
                 <li class="nav-item dropdown dropdown-slide">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown4" role="button" data-delay="350"
                     data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    <h4>Home</h4>
+                    <h4>Grocery</h4>
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown4">
                     <li><a href="#">About Us</a></li>
@@ -78,7 +78,7 @@ function Header() {
                 <li class="nav-item dropdown dropdown-slide">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown3" role="button" data-delay="350"
                     data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Shop.
+                    <h4>Travel</h4>
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown3">
                     <li><Link to={{ pathname: "/shop"}}>Shop</Link></li>
@@ -92,7 +92,7 @@ function Header() {
                 <li class="nav-item dropdown dropdown-slide">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown5" role="button" data-delay="350"
                     data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Account.
+                        <h4>Account</h4>
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown5">
                     <li><Link to={{ pathname: "/login"}}>Login Page</Link></li>
@@ -123,7 +123,7 @@ function Header() {
                     <h6>Ladies Bag</h6>
                     <div class="cart-price">
                         <span>1 x</span>
-                        <span>1250.00</span>
+                        <span>sqt.00</span>
                     </div>
                     </div>
                     <a href="#" class="remove"><i class="tf-ion-close"></i></a>
@@ -138,7 +138,7 @@ function Header() {
                     <h6>Skinny Jeans</h6>
                     <div class="cart-price">
                         <span>1 x</span>
-                        <span>1250.00</span>
+                        <span>pyq.00</span>
                     </div>
                     </div>
                     <a href="#" class="remove"><i class="tf-ion-close"></i></a>
@@ -146,7 +146,7 @@ function Header() {
 
                 <div class="cart-summary">
                     <span class="h6">Total</span>
-                    <span class="total-price h6">$1799.00</span>
+                    <span class="total-price h6">$XYZ.00</span>
 
                     <div class="text-center cart-buttons mt-3">
                     <a href="#" class="btn btn-small btn-transparent btn-block">View Cart</a>
