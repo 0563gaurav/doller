@@ -29,12 +29,12 @@ function Header() {
                                                 {/* <h4 >Grocery</h4> */}
                                             </a>
                                             <ul class="dropdown-menu grv-styles " aria-labelledby="navbarDropdown4">
-                                                <li><a href="#">About Us</a></li>
-                                                <li><a href="#">Blog</a></li>
-                                                <li><a href="#">Blog Single</a></li>
-                                                <li><a href="#">Contact</a></li>
-                                                <li><a href="#">404 Page</a></li>
-                                                <li><a href="#">FAQ</a></li>
+                                                <li><a href="#">Mobile</a></li>
+                                                <li><a href="#">Desktop</a></li>
+                                                <li><a href="#">Laptop</a></li>
+                                                <li><a href="#">RasberryPi</a></li>
+                                                <li><a href="#">arduino</a></li>
+                                                <li><a href="#">iphone</a></li>
                                             </ul>
                                         </li>
 
@@ -43,11 +43,11 @@ function Header() {
 
 
                                 </li>
-                                <li><a href="#">Blog</a></li>
-                                <li><a href="#">Blog Single</a></li>
-                                <li><a href="#">Contact</a></li>
-                                <li><a href="#">404 Page</a></li>
-                                <li><a href="#">FAQ</a></li>
+                                <li><a href="#">Mobile</a></li>
+                                <li><a href="#">Desktop</a></li>
+                                <li><a href="#">Laptop</a></li>
+                                <li><a href="#">RasberryPi</a></li>
+                                <li><a href="#">arduino</a></li>
                             </ul>
                         </li>
 
@@ -57,12 +57,12 @@ function Header() {
                                 <h4>Electronics</h4>
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown4">
-                                <li><a href="#">About Us</a></li>
-                                <li><a href="#">Blog</a></li>
-                                <li><a href="#">Blog Single</a></li>
-                                <li><a href="#">Contact</a></li>
-                                <li><a href="#">404 Page</a></li>
-                                <li><a href="#">FAQ</a></li>
+                                <li><a href="#">Mobile</a></li>
+                                <li><a href="#">Desktop</a></li>
+                                <li><a href="#">Laptop</a></li>
+                                <li><a href="#">RasberryPi</a></li>
+                                <li><a href="#">arduino</a></li>
+                                <li><a href="#">iphone</a></li>
                             </ul>
                         </li>
 
@@ -72,12 +72,12 @@ function Header() {
                                 <h4>Fashion</h4>
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown4">
-                                <li><a href="#">About Us</a></li>
-                                <li><a href="#">Blog</a></li>
-                                <li><a href="#">Blog Single</a></li>
-                                <li><a href="#">Contact</a></li>
-                                <li><a href="#">404 Page</a></li>
-                                <li><a href="#">FAQ</a></li>
+                                <li><a href="#">Mobile</a></li>
+                                <li><a href="#">Desktop</a></li>
+                                <li><a href="#">Laptop</a></li>
+                                <li><a href="#">RasberryPi</a></li>
+                                <li><a href="#">arduino</a></li>
+                                <li><a href="#">iphone</a></li>
                             </ul>
                         </li>
 
@@ -87,12 +87,12 @@ function Header() {
                                 <h4>Grocery</h4>
                             </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown4">
-                                <li><a href="#">About Us</a></li>
-                                <li><a href="#">Blog</a></li>
-                                <li><a href="#">Blog Single</a></li>
-                                <li><a href="#">Contact</a></li>
-                                <li><a href="#">404 Page</a></li>
-                                <li><a href="#">FAQ</a></li>
+                                <li><a href="#">Mobile</a></li>
+                                <li><a href="#">Desktop</a></li>
+                                <li><a href="#">Laptop</a></li>
+                                <li><a href="#">RasberryPi</a></li>
+                                <li><a href="#">arduino</a></li>
+                                <li><a href="#">iphone</a></li>
                             </ul>
                         </li>
 
