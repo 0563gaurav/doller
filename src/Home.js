@@ -7,8 +7,8 @@ function Home() {
                         <div class="row">
                             <div class="col-lg-6 col-12 offset-lg-6 offset-md-6">
                             <div class="slider-caption">
-                                <span class="lead">Trendy dress</span>
-                                <h1 class="mt-2 mb-5"><span class="text-color">Winter </span>Collection</h1>
+                                <span class="lead">Cutting Edge Technology</span>
+                                <h1 class="mt-2 mb-5"><span class="text-color">RasberryPi </span>arduino</h1>
                                 <a href="#" class="btn btn-main">Click Here</a>
                             </div>
                             </div>
